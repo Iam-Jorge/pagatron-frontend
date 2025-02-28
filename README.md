@@ -35,5 +35,5 @@ El proyecto sigue una estructura estándar de React. Aquí están las carpetas y
 
 ## Autores
 
-- Georgi ANgelov
+- Georgi Angelov
 - Alibek Tugel
